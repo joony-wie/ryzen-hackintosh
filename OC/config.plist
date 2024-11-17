@@ -1211,7 +1211,7 @@
 			</array>
 		</dict>
 		<key>LegacyOverwrite</key>
-		<false/>
+		<true/>
 		<key>LegacySchema</key>
 		<dict/>
 		<key>WriteFlash</key>
